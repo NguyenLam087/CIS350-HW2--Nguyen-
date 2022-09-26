@@ -8,7 +8,7 @@
 
 I know the basics in many coding languages. I am most comfortabe with Java, C, Swift. I self taught my self HTML and Python. Probablythis upcoming summer i'll get started on learning C# and C++.
 
-![MEME]https://www.boredpanda.com/blog/wp-content/uploads/2021/02/relatable-jokes-140-60197474d26a1__700.jpg
+![MEME](https://www.boredpanda.com/blog/wp-content/uploads/2021/02/relatable-jokes-140-60197474d26a1__700.jpg)
 
 
 ~
